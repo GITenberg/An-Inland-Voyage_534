@@ -1,5 +1,8 @@
 _repo: An-Inland-Voyage_534
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -17,6 +20,8 @@ description: An Inland Voyage, details his canoeing trip through France and Belg
   Squatters. Stevenson undertook the journey with his friend, Sir Walter Grindlay
   Simpson, at a time when such outdoor travel for leisure was considered unusual and
   it resulted in this romantic and original work that still inspires travelers today.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/534#An-Inland-Voyage
 gutenberg_issued: '1996-05-01'
 gutenberg_type: Text
 identifiers:
